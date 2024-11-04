@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epeveudi.github.io/Cxo/sitemap_index.txt
+Sitemap: https://epeveudi.github.io/DdT/sitemap_index.txt
+Sitemap: https://epeveudi.github.io/gLW/sitemap_index.txt
+Sitemap: https://epeveudi.github.io/mWS/sitemap_index.txt
